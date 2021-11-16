@@ -85,12 +85,12 @@ p {
     padding: 5%;
 }
 
-.fas {
+.feature-icons {
     color: salmon;
     margin-bottom: 1rem;
 }
 
-.fas:hover {
+.feature-icons:hover {
     color: #ff4c68;
 }
 
@@ -146,4 +146,36 @@ p {
         position: static;
         transform: rotate(0);
     }
+}
+
+
+/* Call to Action */
+
+#cta {
+    text-align: center;
+    background-color: salmon;
+    padding-bottom: 3%;
+    padding-top: 4%;
+}
+
+.cta-text {
+    font-size: 3rem;
+    font-weight: 900;
+    color: white;
+}
+
+#cta .btn {
+    margin: 20px;
+}
+
+
+/* Footer Section */
+
+#footer {
+    text-align: center;
+    background-color: white;
+}
+
+.footer-icons {
+    margin: 10px;
 }
