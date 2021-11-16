@@ -165,7 +165,7 @@ p {
 }
 
 #cta .btn {
-    margin: 20px;
+    margin: 40px;
 }
 
 
@@ -174,10 +174,9 @@ p {
 #footer {
     text-align: center;
     background-color: white;
-    padding-top: 4%;
-    padding-bottom: 3%;
+    padding: 7% 15%;
 }
 
 .footer-icons {
-    margin: 10px;
+    margin: 20px 10px;
 }
